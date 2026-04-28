@@ -1,6 +1,6 @@
-# Fernando Augusto
+# 🍀 Fernando Augusto
 
-**Senior Software Engineer @ Hyti/Sesi/Senai | 15+ anos de experiência | Full-Stack Developer | Ecosistema Microsoft**
+**`Senior Software Engineer` @ Hyti/Sesi/Senai | 15+ anos de experiência | Full-Stack Developer | Ecosistema Microsoft**
 
 São Paulo, Brazil 🇧🇷 | dev.fernandoaugusto@outlook.com | [LinkedIn](https://www.linkedin.com/in/onandoaugusto)
 
@@ -28,20 +28,20 @@ Desenvolvedor full-stack com 15+ anos de experiência em **Ecosistema Microsoft 
 
 ## 💼 Experiência Recente
 
->**Analista Desenvolvedor de Sistemas** @ SESI-SENAI SP *(09/2025 – Atual)*<br>
->Sustentação e inovação de sistemas internos pedagógicos e secretariais (outsourcing via Hyti)
+**Analista Desenvolvedor de Sistemas** @ `SESI-SENAI SP` *(09/2025 – Atual)*<br>
+Sustentação e inovação de sistemas internos pedagógicos e secretariais (outsourcing via Hyti)
 
->**Analista Desenvolvedor de Sistemas** @ Eicon *(08/2022 – 12/2024)*<br>
->Plataforma Gier (gestão escolar pública) | Soluções web/mobile para famílias, alunos e professores
+**Analista Desenvolvedor de Sistemas** @ `Eicon` *(08/2022 – 12/2024)*<br>
+Plataforma Gier (gestão escolar pública) | Soluções web/mobile para famílias, alunos e professores
 
->**Desenvolvedor de Sistemas** @ AASP – Associação de Advogados de SP *(12/2021 – 07/2022)*<br>
->Web crawling, bots e ferramentas back-office jurídico (outsourcing via Sysmap)
+**Desenvolvedor de Sistemas** @ `AASP – Associação de Advogados de São Paulo` *(12/2021 – 07/2022)*<br>
+Web crawling, bots e ferramentas back-office jurídico (outsourcing via Sysmap)
 
->**Desenvolvedor de Sistemas** @ HC-FMUSP *(04/2021 – 12/2021)*<br>
->Sistemas para operação e atendimento SUS no Hospital das Clínicas da USP
+**Desenvolvedor de Sistemas** @ `HC-FMUSP` *(04/2021 – 12/2021)*<br>
+Sistemas para operação e atendimento SUS no Hospital das Clínicas da USP
 
->**Analista Desenvolvedor de Sistemas** @ Versatilis System *(09/2015 – 08/2020)*<br>
->Plataforma ERP em ASP.NET Web Forms para clínicas e estúdios de estética; Prontuários, agendamentos, exames
+**Analista Desenvolvedor de Sistemas** @ `Versatilis System` *(09/2015 – 08/2020)*<br>
+Plataforma ERP em ASP.NET Web Forms para clínicas e estúdios de estética; Prontuários, agendamentos, exames
 
 ---
 
