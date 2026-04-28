@@ -1,6 +1,6 @@
 # Fernando Augusto
 
-**Full-Stack Developer | 15+ anos de experiência | Ecosistema Microsoft Specialist**
+**Senior Software Engineer @ Hyti/Sesi/Senai | 15+ anos de experiência | Full-Stack Developer | Ecosistema Microsoft**
 
 São Paulo, Brazil 🇧🇷 | dev.fernandoaugusto@outlook.com | [LinkedIn](https://www.linkedin.com/in/onandoaugusto)
 
