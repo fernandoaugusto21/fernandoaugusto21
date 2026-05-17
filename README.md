@@ -2,13 +2,21 @@
 
 **`Senior Software Engineer` @ Hyti/Sesi/Senai | 15+ anos de experiência | Full-Stack Developer | Ecosistema Microsoft**
 
-São Paulo, Brazil 🇧🇷 | dev.fernandoaugusto@outlook.com | [LinkedIn](https://www.linkedin.com/in/onandoaugusto)
+
+  <a href="#" title="E-Mail">
+  <img src="https://img.shields.io/badge/Location-São Paulo, Brazil-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:dev.fernandoaugusto@outlook.com" alt="E-mail"/></a>
+  <a href="#" title="E-Mail">
+  <img src="https://img.shields.io/badge/✉️-dev.fernandoaugusto@outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:dev.fernandoaugusto@outlook.com" alt="E-mail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=%2B5511972716641&type=phone_number&app_absent=0" alt="WhatsApp"/></a>
 
 ---
 
 ## 👋 Sobre Mim
 
-Desenvolvedor full-stack com 15+ anos de experiência em **Ecosistema Microsoft (.NET, C#, SQL Server)** e tecnologias web modernas. Especialista em traduzir regras de negócio complexas em soluções escaláveis, com atuação profunda em **saúde**, **educação**, **jurídico** e **varejo**.
+Desenvolvedor full-stack com 15+ anos de experiência em **Ecosistema Microsoft (.NET, C#, SQL Server)** e tecnologias web modernas. Especialista em traduzir regras de negócio complexas em soluções escaláveis, com **atuação** profunda em **saúde**, **educação**, **jurídico** e **varejo**.
 
 📌 **Diferenciais:** Infraestrutura Microsoft, mentoria em programação, web crawling avançado, integração de dados complexa.
 
@@ -21,7 +29,7 @@ Desenvolvedor full-stack com 15+ anos de experiência em **Ecosistema Microsoft 
 | JavaScript / jQuery | ASP.NET (4.8, 8+) | SQL Server | Azure DevOps | SOLID
 | Bootstrap | WebForms / MVC | MySQL / Oracle | GitHub / Git | DRY
 | HTML5 / CSS3 | Entity Framework | Redis | TFS / SVN | Singleton
-| | Dapper / NHibernate | RegEx / LINQ | | Factory
+| | Dapper / NHibernate | RegEx / LINQ | ShellScript/CLI | Factory
 | | REST APIs | Lambda Expressions | | Dry
 
 ---
@@ -65,8 +73,8 @@ Plataforma ERP em ASP.NET Web Forms para clínicas e estúdios de estética; Pro
 ## 🚀 Quer conversar comigo?
 
 📧 [dev.fernandoaugusto@outlook.com](mailto:dev.fernandoaugusto@outlook.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/onandoaugusto)  
-📱 [11 97271-6641](tel:11972716641)
+💼 [LinkedIn](https://www.linkedin.com/in/onandoaugusto)  
+☎️ [WhatsApp](https://api.whatsapp.com/send/?phone=%2B5511972716641&type=phone_number&app_absent=0)
 
 ---
 
