@@ -37,7 +37,7 @@ Desenvolvedor full-stack com 15+ anos de experiência em **Ecosistema Microsoft 
 ## 💼 Experiência Recente
 
 **Analista Desenvolvedor de Sistemas** @ `SESI-SENAI SP` *(09/2025 – Atual)*<br>
-Sustentação e inovação de sistemas internos pedagógicos e secretariais (outsourcing via Hyti)
+Sustentação e inovação de sistemas internos pedagógicos e secretariais (outsourcing via Hyti). Destaque: redução do tempo de emissão do Livro de Registro de Diplomas de 3–10min para ~30s, com diminuição de overlap na aplicação, transferindo a renderização do relatório para o servidor de dados
 
 **Analista Desenvolvedor de Sistemas** @ `Eicon` *(08/2022 – 12/2024)*<br>
 Plataforma Gier (gestão escolar pública) | Soluções web/mobile para famílias, alunos e professores
