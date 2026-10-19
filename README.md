@@ -1,6 +1,6 @@
 # 🍀 Fernando Augusto
 
-**`Senior Software Engineer` @ Hyti/Sesi/Senai | 15+ anos de experiência | Full-Stack Developer | Ecosistema Microsoft**
+**`Senior Software Engineer` @ Hyti/Sesi/Senai | 15+ anos de experiência | Full-Stack Developer | Ecossistema Microsoft**
 
 
   <a href="#" title="E-Mail">
@@ -8,7 +8,7 @@
   <a href="#" title="E-Mail">
   <img src="https://img.shields.io/badge/✉️-dev.fernandoaugusto@outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:dev.fernandoaugusto@outlook.com" alt="E-mail"/></a>
   <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandoaugusto21" alt="LinkedIn"/></a>
   <a href="#" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=%2B5511972716641&type=phone_number&app_absent=0" alt="WhatsApp"/></a>
 
@@ -16,7 +16,7 @@
 
 ## 👋 Sobre Mim
 
-Desenvolvedor full-stack com 15+ anos de experiência em **Ecosistema Microsoft (.NET, C#, SQL Server)** e tecnologias web modernas. Especialista em traduzir regras de negócio complexas em soluções escaláveis, com **atuação** profunda em **saúde**, **educação**, **jurídico** e **varejo**.
+Desenvolvedor full-stack com 15+ anos de experiência em **Ecossistema Microsoft (.NET, C#, SQL Server)** e tecnologias web modernas. Especialista em traduzir regras de negócio complexas em soluções escaláveis, com **atuação** profunda em **saúde**, **educação**, **jurídico** e **varejo**.
 
 📌 **Diferenciais:** Infraestrutura Microsoft, mentoria em programação, web crawling avançado, integração de dados complexa.
 
@@ -26,18 +26,23 @@ Desenvolvedor full-stack com 15+ anos de experiência em **Ecosistema Microsoft 
 
 | **Front-end** | **Back-end** | **Dados** | **DevOps** | **Patterns & Práticas**
 |---|---|---|---|---|
-| JavaScript / jQuery | ASP.NET (4.8, 8+) | SQL Server | Azure DevOps | SOLID
-| Bootstrap | WebForms / MVC | MySQL / Oracle | GitHub / Git | DRY
-| HTML5 / CSS3 | Entity Framework | Redis | TFS / SVN | Singleton
-| | Dapper / NHibernate | RegEx / LINQ | ShellScript/CLI | Factory
-| | REST APIs | Lambda Expressions | | Dry
+| JavaScript / jQuery | .NET Framework 4.8 / .NET 8+ (LTS) | SQL Server | Azure DevOps | SOLID
+| Bootstrap | ASP.NET WebForms / MVC | MySQL / Oracle | GitHub / Git | DRY
+| HTML5 / CSS3 | Entity Framework | Redis | TFS / SVN | GoF (Singleton, Factory)
+| | Dapper / NHibernate | RegEx / LINQ / Lambda | CI/CD (build e publicação) | Dev assistido por IA (Claude Code)
+| | REST APIs (NSwag/OpenAPI) | XML / XSD / XAdES | PowerShell / ShellScript |
+| | RDLC / Reporting Services | | |
 
 ---
 
 ## 💼 Experiência Recente
 
 **Analista Desenvolvedor de Sistemas** @ `SESI-SENAI SP` *(09/2025 – Atual)*<br>
-Sustentação e inovação de sistemas internos pedagógicos e secretariais (outsourcing via Hyti). Destaque: redução do tempo de emissão do Livro de Registro de Diplomas de 3–10min para ~30s, com diminuição de overlap na aplicação, transferindo a renderização do relatório para o servidor de dados
+Sustentação e evolução de 3 sistemas internos (Diploma Digital, SGSET e SAS), em outsourcing via Hyti.
+- Responsável pelo Sistema de Diploma Digital do SESI-SP e do SENAI-SP: emissão, assinatura digital ICP-Brasil (XAdES) e envio de diplomas e históricos escolares conforme o XSD do MEC
+- Redução do tempo de emissão do Livro de Registro de Diplomas de 3–10 min para ~30 s, levando a renderização do relatório para o servidor de dados
+- 39 releases para produção e ~180 entregas de correção e evolução (09/2025–10/2026), conduzindo o ciclo desenvolvimento → homologação → produção, com build e pipeline de publicação automatizados
+- Diagnóstico de incidentes em produção com causa-raiz em dados legados, saneamento de dados em massa com rastreabilidade e correções de segurança em controle de acesso
 
 **Analista Desenvolvedor de Sistemas** @ `Eicon` *(08/2022 – 12/2024)*<br>
 Plataforma Gier (gestão escolar pública) | Soluções web/mobile para famílias, alunos e professores
@@ -56,7 +61,7 @@ Plataforma ERP em ASP.NET Web Forms para clínicas e estúdios de estética; Pro
 ## 🎯 Conhecimentos Setoriais
 
 - **Saúde:** Protocolos TISS/SADT, fluxos de faturamento médico, sistemas hospitalares
-- **Educação:** Gestão escolar (Gier), certificação digital de diplomas e históricos escolares
+- **Educação:** Gestão escolar (Gier), Diploma Digital MEC (XML/XSD, XAdES, ICP-Brasil) para diplomas e históricos escolares
 - **Jurídico:** Back-office, crawling, ferramentas especializadas
 - **Varejo:** ERP, e-commerce, big data e análise
 
