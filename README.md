@@ -18,7 +18,17 @@
 
 Desenvolvedor full-stack com 15+ anos de experiência em **Ecossistema Microsoft (.NET, C#, SQL Server)** e tecnologias web modernas. Especialista em traduzir regras de negócio complexas em soluções escaláveis, com **atuação** profunda em **saúde**, **educação**, **jurídico** e **varejo**.
 
-📌 **Diferenciais:** Infraestrutura Microsoft, mentoria em programação, web crawling avançado, integração de dados complexa.
+📌 **Diferenciais:** Infraestrutura Microsoft, mentoria em programação, web crawling avançado, integração de dados complexa, desenvolvimento assistido por agentes de IA orientado a pesquisa e especificação.
+
+---
+
+## 🧭 Como trabalho com agentes de IA
+
+- **Pesquisa antes do código:** hipóteses com grau de confiança, alternativas descartadas e decisões em aberto registradas
+- **Especificação como contrato:** decisões viram escopo explícito; o que fica de fora vira backlog
+- **Convenções como instruções:** regras de branch, commit e documentação versionadas no repositório para o agente seguir
+- **Execução paralela isolada:** um git worktree por frente, com ferramenta própria publicada como open source ([WorktreeSlots](https://github.com/fernandoaugusto21/WorktreeSlots))
+- **Verificar rodando:** só conta o que foi executado contra o sistema real; o que não pôde ser testado fica como pendência explícita
 
 ---
 
@@ -43,6 +53,7 @@ Sustentação e evolução de 3 sistemas internos (Diploma Digital, SGSET e SAS)
 - Redução do tempo de emissão do Livro de Registro de Diplomas de 3–10 min para ~30 s, levando a renderização do relatório para o servidor de dados
 - 39 releases para produção e ~180 entregas de correção e evolução (09/2025–10/2026), conduzindo o ciclo desenvolvimento → homologação → produção, com build e pipeline de publicação automatizados
 - Diagnóstico de incidentes em produção com causa-raiz em dados legados, saneamento de dados em massa com rastreabilidade e correções de segurança em controle de acesso
+- Fluxo de desenvolvimento com agentes de IA (Claude Code) orientado a pesquisa e especificação. Cada demanda começa num diário de investigação (hipóteses, evidências, decisões pendentes), que vira a especificação executada pelo agente em branches isoladas (git worktrees), com validação humana dos achados antes do merge
 
 **Analista Desenvolvedor de Sistemas** @ `Eicon` *(08/2022 – 12/2024)*<br>
 Plataforma Gier (gestão escolar pública) | Soluções web/mobile para famílias, alunos e professores
