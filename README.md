@@ -1,6 +1,6 @@
 # 🍀 Fernando Augusto
 
-**`Senior Software Engineer` @ Hyti/Sesi/Senai | 15+ anos de experiência | Full-Stack Developer | Ecossistema Microsoft**
+**`Senior Software Engineer` @ Hyti/SESI-SENAI-SP | 15+ anos de experiência | Full-Stack Developer | Ecossistema Microsoft**
 
 
   <a href="#" title="E-Mail">
@@ -55,13 +55,16 @@ Sustentação e evolução de 3 sistemas internos (Diploma Digital, SGSET e SAS)
 - Diagnóstico de incidentes em produção com causa-raiz em dados legados, saneamento de dados em massa com rastreabilidade e correções de segurança em controle de acesso
 - Fluxo de desenvolvimento com agentes de IA (Claude Code) orientado a pesquisa e especificação. Cada demanda começa num diário de investigação (hipóteses, evidências, decisões pendentes), que vira a especificação executada pelo agente em branches isoladas (git worktrees), com validação humana dos achados antes do merge
 
+**Consultor de Software Independente** @ `puzzle.tec` *(02/2025 – 09/2025)*<br>
+Projeto freelance de integração para um SaaS de gestão: serviço .NET 9 que sincroniza licenças, configurações e totalizadores de uso com o ERP do fornecedor (REST + SQL Server), com histórico de alterações e bloqueio automático após 120 dias sem conexão
+
 **Analista Desenvolvedor de Sistemas** @ `Eicon` *(08/2022 – 12/2024)*<br>
 Plataforma Gier (gestão escolar pública) | Soluções web/mobile para famílias, alunos e professores
 
 **Desenvolvedor de Sistemas** @ `AASP – Associação de Advogados de São Paulo` *(12/2021 – 07/2022)*<br>
 Web crawling, bots e ferramentas back-office jurídico (outsourcing via Sysmap)
 
-**Desenvolvedor de Sistemas** @ `HC-FMUSP` *(04/2021 – 12/2021)*<br>
+**Desenvolvedor de Sistemas** @ `HC-FMUSP` *(04/2021 – 11/2021)*<br>
 Sistemas para operação e atendimento SUS no Hospital das Clínicas da USP
 
 **Analista Desenvolvedor de Sistemas** @ `Versatilis System` *(09/2015 – 08/2020)*<br>
@@ -81,7 +84,7 @@ Plataforma ERP em ASP.NET Web Forms para clínicas e estúdios de estética; Pro
 ## 📚 Formação
 
 🎓 **Tecnólogo em Sistemas para Internet** – SENAC (4 semestres)  
-🌐 **Inglês Intermediário** – Yazigi  
+🌐 **Inglês avançado** – curso Yazigi  
 📱 **Xamarin** – FIAP
 
 ---
